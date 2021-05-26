@@ -3,3 +3,6 @@
 # Installation
 * pip install pyqrcode
 * pip install pypng
+# 
+pyqr code is a QR code generetor.The module automates most of the building process for creating QR codes.
+module pypng to save image in png format.
